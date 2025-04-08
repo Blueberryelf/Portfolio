@@ -1,17 +1,14 @@
-html
-{
+html{
 color: red;
   
 }
 
-#menu 
-{
+#menu {
 float: left;
 
 }
 
-#projects li 
-{
+#projects li {
 float: left;
 list-style: none;
 border-right: 50px;
