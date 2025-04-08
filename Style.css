@@ -1,5 +1,17 @@
 html
 {
-color:black
+color:black;
   
+}
+
+#menu 
+{
+
+
+}
+
+#projects li 
+{
+float: left;
+
 }
