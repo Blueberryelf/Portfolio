@@ -1,6 +1,6 @@
 html
 {
-color:black;
+color: red;
   
 }
 
@@ -13,5 +13,6 @@ float: left;
 #projects li 
 {
 float: left;
-
+list-style: none;
+border-right: 50px;
 }
